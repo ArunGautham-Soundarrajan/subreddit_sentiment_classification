@@ -154,4 +154,5 @@ I have also tried *Vader sentiment Analyser* to add few more features. I thought
 with the target. But to my surprise, that didn’t influence the performance of the model. 
 
 ![comparison](https://github.com/ArunGautham-Soundarrajan/subreddit_sentiment_classification/blob/main/images/bs_vs_final.png)
+
 *Comparison of the baseline vs final model*
